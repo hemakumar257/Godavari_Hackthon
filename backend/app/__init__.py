@@ -1,0 +1,2 @@
+"""Godavari Pushkaralu 2027 Backend Application Package."""
+__version__ = "1.0.0"

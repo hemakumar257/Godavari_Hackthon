@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Circular gradient background -->
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#054786" />
+      <stop offset="100%" stop-color="#0891b2" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#ea580c" />
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#ffffff" />
+    </linearGradient>
+  </defs>
+  
+  <circle cx="50" cy="50" r="48" fill="url(#bgGrad)" stroke="#f59e0b" stroke-width="2.5" />
+  
+  <!-- Sacred Diya / Kalash base -->
+  <path d="M30 65 C35 72, 65 72, 70 65 C66 60, 34 60, 30 65 Z" fill="url(#goldGrad)" />
+  
+  <!-- Sacred Pushkaralu Flame / Jyoti -->
+  <path d="M50 24 C54 36, 62 44, 50 56 C38 44, 46 36, 50 24 Z" fill="url(#goldGrad)" />
+  <circle cx="50" cy="46" r="4" fill="#fef08a" />
+  
+  <!-- River Waves of Sacred Godavari -->
+  <path d="M18 76 Q 34 70, 50 76 T 82 76" stroke="url(#waveGrad)" stroke-width="3.5" stroke-linecap="round" fill="none" />
+  <path d="M24 83 Q 38 78, 50 83 T 76 83" stroke="#e0f2fe" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.85" />
+</svg>
