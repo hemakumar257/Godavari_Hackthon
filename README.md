@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # గోదావరి పుష్కరాలు 2027 | GODAVARI PUSHKARALU 2027
 ### *An Integrated Digital Pilgrim Experience and Heritage Access Platform*
 **మీ పుష్కర యాత్రకు డిజిటల్ మార్గదర్శి**
@@ -154,3 +155,7 @@ Godavari_Hackthon/
 ├── .gitignore
 └── README.md
 ```
+=======
+# Godavari_Hackthon
+Godavari Pushkaralu 2027 is a digital platform designed to enhance the pilgrimage experience by bringing essential pilgrim services, spiritual information, navigation, public safety, and cultural heritage into one unified application.
+>>>>>>> c1606160d388176c1be6bf23bb0b5efb7460c933
